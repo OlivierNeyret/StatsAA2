@@ -63,7 +63,7 @@ app <- function() {
 #On veut maintenant formaliser le problème
 # On pose Theta l'estimation du parametre T
 # Theta = f(data)
-E(X) = (a+b)/2
-E(TETAMarius)= 2somme(i=1 => )
-estimateur de marius, convergeant, variance en 1/n
+# E(X) = (a+b)/2
+# E(TETAMarius)= 2somme(i=1 => )
+# estimateur de marius, convergeant, variance en 1/n
 

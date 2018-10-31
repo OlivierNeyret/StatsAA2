@@ -43,7 +43,7 @@ simuExp <- function(nIt){
   lambdaSim <- lambdaSim/nIt
   cat(lambdaSim)
   cat("\nbiais = ", ((lambdaSim/lambda)*100)-100, "%")
-  cat("\nScore dispersion = ", scoreDispersion)
+  cat("\nScore dispersion = ", scoreDispersion,"\n")
 }
 
 simuExp(10000)
